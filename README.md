@@ -40,13 +40,13 @@ The architecture of this project includes:
 
 
 ## Data Analysis and Reporting
-![Scatter Plot](./images/scatter.png)
+![Scatter Plot](./images/scatter.jpg)
 
 Based on the scatterplot:  
 - No strong or consistent positive relationship can be observed between higher IMDb scores and Netflix's stock prices.
 - Stock price movements are likely influenced by broader market factors, financial performance, or subscription growth, rather than the IMDb scores of its content alone.
 
-![Box Plot](./images/boxplot.png)
+![Box Plot](./images/boxplot.jpg)
 
 Median IMDb Scores:
 
