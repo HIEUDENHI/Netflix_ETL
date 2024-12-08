@@ -36,7 +36,7 @@ The architecture of this project includes:
 
 ### Dimensional Model
 
-![Dimensional Modeling](./images/modeling.png)
+![Dimensional Modeling](./images/modeling.jpg)
 
 
 ## Data Analysis and Reporting
